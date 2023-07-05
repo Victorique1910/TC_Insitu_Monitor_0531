@@ -1,0 +1,10 @@
+D:\test_p\USBscan\USBscan\USBscan.Model\bin\Release\USBscan.Model.dll
+D:\test_p\USBscan\USBscan\USBscan.Model\bin\Release\USBscan.Model.pdb
+D:\test_p\USBscan\USBscan\USBscan.Model\obj\Release\USBscan.Model.csproj.CoreCompileInputs.cache
+D:\test_p\USBscan\USBscan\USBscan.Model\obj\Release\USBscan.Model.dll
+D:\test_p\USBscan\USBscan\USBscan.Model\obj\Release\USBscan.Model.pdb
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.Model\bin\Release\USBscan.Model.dll
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.Model\bin\Release\USBscan.Model.pdb
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.Model\obj\Release\USBscan.Model.csproj.CoreCompileInputs.cache
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.Model\obj\Release\USBscan.Model.dll
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.Model\obj\Release\USBscan.Model.pdb

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBscan", "USBscan\USBscan.csproj", "{D0A5D02C-0936-45C9-9A20-8106807982C6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2123A911-658D-45B4-AB29-1C3364713B24} = {2123A911-658D-45B4-AB29-1C3364713B24}
+		{33589CA7-8418-486E-A4AD-495F9058FB9E} = {33589CA7-8418-486E-A4AD-495F9058FB9E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBscan.BLL", "USBscan.BLL\USBscan.BLL.csproj", "{33589CA7-8418-486E-A4AD-495F9058FB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBscan.DAL", "USBscan.DAL\USBscan.DAL.csproj", "{2123A911-658D-45B4-AB29-1C3364713B24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A5D02C-0936-45C9-9A20-8106807982C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A5D02C-0936-45C9-9A20-8106807982C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A5D02C-0936-45C9-9A20-8106807982C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A5D02C-0936-45C9-9A20-8106807982C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33589CA7-8418-486E-A4AD-495F9058FB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33589CA7-8418-486E-A4AD-495F9058FB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33589CA7-8418-486E-A4AD-495F9058FB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33589CA7-8418-486E-A4AD-495F9058FB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2123A911-658D-45B4-AB29-1C3364713B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2123A911-658D-45B4-AB29-1C3364713B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2123A911-658D-45B4-AB29-1C3364713B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2123A911-658D-45B4-AB29-1C3364713B24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F858292-8318-4739-A630-930DA4F0425E}
+	EndGlobalSection
+EndGlobal

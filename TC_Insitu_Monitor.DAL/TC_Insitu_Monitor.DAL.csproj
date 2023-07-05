@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7455B376-90C1-4810-802D-A492704DF8B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TC_Insitu_Monitor.DAL</RootNamespace>
+    <AssemblyName>TC_Insitu_Monitor.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TC_Insitu_Monitor.Model">
+      <HintPath>..\TC_Insitu_Monitor.Model\bin\Debug\TC_Insitu_Monitor.Model.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config_Function\ConditionConfig\CalConfigs.cs" />
+    <Compile Include="Config_Function\FileFunction.cs" />
+    <Compile Include="Config_Function\ConditionConfig\ChamberConfigs.cs" />
+    <Compile Include="Config_Function\ConditionConfig\ConditionTCConfigs.cs" />
+    <Compile Include="Config_Function\ConditionConfig\CorrespondentTemperatureConfigs.cs" />
+    <Compile Include="Config_Function\ConditionConfig\FailCriteriaConfigs.cs" />
+    <Compile Include="Config_Function\ConditionConfig\SampleRateConfigs.cs" />
+    <Compile Include="Config_Function\ConditionConfig\StopCriteriaConfigs.cs" />
+    <Compile Include="Config_Function\ConfigFunction.cs" />
+    <Compile Include="Config_Function\DataConfig\DataConfigs.cs" />
+    <Compile Include="Config_Function\DataConfig\1_0_DataConfigsDictionary.cs" />
+    <Compile Include="Config_Function\DataConfig\1_1_DataConfigsStatus.cs" />
+    <Compile Include="Config_Function\DataConfig\2_0_DataConfigsFormalTestDataTable.cs" />
+    <Compile Include="Config_Function\DataConfig\2_1_DataConfigsPreTestDataTable.cs" />
+    <Compile Include="Config_Function\MailConfig\EmailConfigs.cs" />
+    <Compile Include="Config_Function\MailConfig\1_MailModel.cs" />
+    <Compile Include="Config_Function\SaveConfig\SaveConfig.cs" />
+    <Compile Include="Config_Function\SaveConfig\0_SaveConfigFunction.cs" />
+    <Compile Include="DataParsing_Function\2_0_TempImpParsing.cs" />
+    <Compile Include="DataParsing_Function\3_0_DataImpParsing.cs" />
+    <Compile Include="DataParsing_Function\3_1_DataTempParsing.cs" />
+    <Compile Include="DataParsing_Function\2_2_ImpedanceConvert.cs" />
+    <Compile Include="DataParsing_Function\5_CalParsing.cs" />
+    <Compile Include="DataParsing_Function\4_DataSummarize.cs" />
+    <Compile Include="Others_Function\TableLookUP.cs" />
+    <Compile Include="Others_Function\HexConverter.cs" />
+    <Compile Include="DataParsing_Function\1_CommendParsing.cs" />
+    <Compile Include="DataParsing_Function\2_1_TemperatureConvert.cs" />
+    <Compile Include="USB_Function\1_USB_Connentor.cs" />
+    <Compile Include="USB_Function\2_USB_Interface.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
