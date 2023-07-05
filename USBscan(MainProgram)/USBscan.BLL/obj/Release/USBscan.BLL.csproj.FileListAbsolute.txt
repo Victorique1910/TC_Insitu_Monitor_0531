@@ -1,0 +1,15 @@
+D:\test_p\USBscan\USBscan\USBscan.BLL\bin\Release\USBscan.BLL.dll
+D:\test_p\USBscan\USBscan\USBscan.BLL\bin\Release\USBscan.BLL.pdb
+D:\test_p\USBscan\USBscan\USBscan.BLL\bin\Release\USBscan.Model.dll
+D:\test_p\USBscan\USBscan\USBscan.BLL\bin\Release\USBscan.DAL.pdb
+D:\test_p\USBscan\USBscan\USBscan.BLL\bin\Release\USBscan.Model.pdb
+D:\test_p\USBscan\USBscan\USBscan.BLL\obj\Release\USBscan.BLL.csproj.CoreCompileInputs.cache
+D:\test_p\USBscan\USBscan\USBscan.BLL\obj\Release\USBscan.BLL.csproj.CopyComplete
+D:\test_p\USBscan\USBscan\USBscan.BLL\obj\Release\USBscan.BLL.dll
+D:\test_p\USBscan\USBscan\USBscan.BLL\obj\Release\USBscan.BLL.pdb
+D:\test_p\USBscan\USBscan\USBscan.BLL\obj\Release\USBscan.BLL.csproj.AssemblyReference.cache
+D:\test_p\USBscan\USBscan\USBscan.BLL\bin\Release\USBscan.DAL.dll
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.BLL\obj\Release\USBscan.BLL.csproj.AssemblyReference.cache
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.BLL\obj\Release\USBscan.BLL.csproj.CoreCompileInputs.cache
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.BLL\obj\Release\USBscan.BLL.dll
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.BLL\obj\Release\USBscan.BLL.pdb

@@ -1,0 +1,4 @@
+DUTName,TC_TempRange,TC_RampRate,TC_DwellTime,TempLimit,HT_RampUp,HT_DwellTime,LT_RampUp,LT_DwellTime
+K,0~0,0,0,0~0,0~0,0~0,0~0,0~0
+S,0~0,0,0,0~0,0~0,0~0,0~0,0~0
+F,0~0,0,0,0~0,0~0,0~0,0~0,0~0

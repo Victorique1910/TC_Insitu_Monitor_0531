@@ -1,0 +1,7 @@
+Board,COMPort,Port,ID,Type,IsCriteria,IsDPAT,FailCondition,Method,ValuesMax,ValuesMin,Base,ContinuousCount,CompensationADCH,CompensationADCL,Loss,DUTName,Chain,ImpedanceChannel,Location,TemperatureName,InitialImpLowTemp,InitialImpHighTemp,LowLimitLowTemp,LowLimitHighTemp,HighLimitLowTemp,HighLimitHighTemp,InitialImpedance,CurrentImpedance,ImpedanceDelta,FailCriteria
+2,COM12,1,1-1-Imp-Corner,Impedance,TRUE,FALSE,Absolute,Above,10,0,Max,5,-0.005458008,0.003964355,0,A,Corner,101,'1-1,1-1-Temp,,,,,,,,,,
+2,COM12,3,1-2-Imp-Corner,Impedance,TRUE,FALSE,Absolute,Above,10,0,Max,5,0.000164551,0.004570801,0,B,Corner,102,'1-2,1-1-Temp,,,,,,,,,,
+2,COM12,5,1-3-Imp-Corner,Impedance,TRUE,FALSE,Absolute,Above,10,0,Max,5,-0.000638672,0.00435791,0,C,Corner,103,'1-3,1-1-Temp,,,,,,,,,,
+2,COM12,7,1-4-Imp-Corner,Impedance,TRUE,FALSE,Absolute,Above,10,0,Max,5,0.000967773,0.005161133,0,D,Corner,104,'1-4,1-1-Temp,,,,,,,,,,
+2,COM12,9,1-5-Imp-Corner,Impedance,TRUE,FALSE,Absolute,Above,10,0,Max,5,-0.028754688,0.005780469,0,E,Corner,105,'1-5,1-1-Temp,,,,,,,,,,
+3,COM15,1,1-1-Temp,Temperature,TRUE,FALSE,Absolute,Above,2,1,Max,5,0.001,0,0,F,Corner,106,'2-1,1-1-Temp,,,,,,,,,,

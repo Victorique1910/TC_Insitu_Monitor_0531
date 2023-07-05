@@ -1,0 +1,16 @@
+D:\test_p\USBscan\USBscan\USBscan.DAL\bin\Release\USBscan.DAL.dll
+D:\test_p\USBscan\USBscan\USBscan.DAL\bin\Release\USBscan.DAL.pdb
+D:\test_p\USBscan\USBscan\USBscan.DAL\bin\Release\USBscan.Model.dll
+D:\test_p\USBscan\USBscan\USBscan.DAL\bin\Release\USBscan.Model.pdb
+D:\test_p\USBscan\USBscan\USBscan.DAL\obj\Release\USBscan.DAL.csproj.CoreCompileInputs.cache
+D:\test_p\USBscan\USBscan\USBscan.DAL\obj\Release\USBscan.DAL.csproj.CopyComplete
+D:\test_p\USBscan\USBscan\USBscan.DAL\obj\Release\USBscan.DAL.dll
+D:\test_p\USBscan\USBscan\USBscan.DAL\obj\Release\USBscan.DAL.pdb
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.DAL\bin\Release\USBscan.DAL.dll
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.DAL\bin\Release\USBscan.DAL.pdb
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.DAL\bin\Release\USBscan.Model.dll
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.DAL\bin\Release\USBscan.Model.pdb
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.DAL\obj\Release\USBscan.DAL.csproj.CoreCompileInputs.cache
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.DAL\obj\Release\USBscan.DAL.csproj.CopyComplete
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.DAL\obj\Release\USBscan.DAL.dll
+D:\test_p\TC_Insitu_Monitor_0531\USBscan(MainProgram)\USBscan.DAL\obj\Release\USBscan.DAL.pdb
